@@ -1,0 +1,132 @@
+CRITICAL - 2020-12-09 00:21:05 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:25:22 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:25:59 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:27:25 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:31:28 --> Column 'nombre' cannot be null
+#0 C:\xampp\htdocs\Pasteles\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\Pasteles\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\Pasteles\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\Pasteles\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\Pasteles\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(84): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->Login()
+#7 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#8 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-09 00:40:54 --> syntax error, unexpected '"contrasenia"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:41:20 --> syntax error, unexpected '"contrasenia"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:42:41 --> syntax error, unexpected '"contrasenia"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:50:08 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:50:11 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:50:31 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-09 00:52:42 --> Column 'nombre' cannot be null
+#0 C:\xampp\htdocs\Pasteles\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `us...')
+#1 C:\xampp\htdocs\Pasteles\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\Pasteles\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\Pasteles\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\Pasteles\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(84): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->Login()
+#7 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#8 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2020-12-09 00:55:20 --> Class 'App\Controllers\Usuario' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-09 00:55:48 --> Class 'App\Controllers\Usuario' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-09 00:56:01 --> Class 'App\Controllers\Usuario' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-09 00:56:59 --> Class 'App\Controllers\Usuario' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-09 00:57:16 --> Class 'App\Controllers\Usuario' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-09 00:59:46 --> Use of undefined constant t_usuario - assumed 't_usuario' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\Pasteles\app\Models\usuariosModel.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(102): App\Models\usuariosModel->obtenerUsuario(Array)
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->validarU()
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

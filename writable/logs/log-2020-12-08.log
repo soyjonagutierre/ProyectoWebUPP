@@ -1,0 +1,104 @@
+CRITICAL - 2020-12-08 19:25:16 --> Cannot redeclare App\Controllers\Pastel::Registro()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-08 19:25:16 --> Cannot redeclare App\Controllers\Pastel::Registro()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-12-08 23:40:23 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/index')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/index')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:47:42 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/index')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/index')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:49:07 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/index')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/index')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:49:16 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:50:14 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:50:16 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:53:45 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:55:09 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:55:18 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:55:29 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:56:06 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:56:15 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:57:46 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-08 23:57:50 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

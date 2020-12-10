@@ -1,0 +1,33 @@
+#M{
+	text-align: center;
+}
+#Somos{
+	margin-top: 10px;
+	height: 220px;
+	width: 800px;
+	border: solid;
+	border-radius: 20px;
+	display: inline-block;
+}
+#Logo{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	border-radius: 10px;
+	height: 180px;
+	width: 180px;
+}
+#Titulo{
+	text-align: center;
+	font-size: 100px;
+	font-style: oblique;
+	height: 350px;
+	width: 100%;
+	vertical-align: middle;
+	display: flex;
+	background-image: url("https://t2.rg.ltmcdn.com/es/images/0/8/8/postre_de_tres_leches_con_gelatina_32880_orig.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 350px;
+	justify-content: center;
+	align-items: center;
+}

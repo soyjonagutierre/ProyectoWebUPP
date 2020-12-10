@@ -1,0 +1,9 @@
+CRITICAL - 2020-12-06 23:44:27 --> Invalid file: Cabecera.php
+#0 C:\xampp\htdocs\Pasteles\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cabecera.php')
+#1 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('Cabecera', Array, true)
+#2 C:\xampp\htdocs\Pasteles\app\Controllers\Pasteles.php(37): view('Cabecera')
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pasteles->index()
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pasteles))
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,371 @@
+CRITICAL - 2020-12-07 00:40:22 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pasteles/Regist...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pasteles/Regist...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:40:53 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pasteles/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pasteles/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:41:19 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pasteles/adminU...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pasteles/adminU...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:41:25 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pasteles/adminU...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pasteles/adminU...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:43:18 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:44:06 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:45:56 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:46:12 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:46:58 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:49:20 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:49:58 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:51:01 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:51:33 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:51:54 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:52:02 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:52:15 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:52:39 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:54:05 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:54:17 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:48 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:49 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:49 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:50 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:50 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:51 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:51 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:52 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:52 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:53 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:53 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:54 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:54 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:55 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:55 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:56 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 00:55:56 --> syntax error, unexpected '.'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 01:27:19 --> Invalid file: adminJA3.php
+#0 C:\xampp\htdocs\Pasteles\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('adminJA3.php')
+#1 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminJA3', Array, true)
+#2 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(27): view('adminJA3')
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminAnios()
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-07 13:28:50 --> syntax error, unexpected ''username'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 13:42:09 --> syntax error, unexpected ''username'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 13:42:12 --> syntax error, unexpected ''username'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/Login')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/Login')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 13:47:41 --> Class 'app\Models\usuariosModel' not found
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->Login()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-07 13:58:03 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\Pasteles\app\Views\adminU2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\Pasteles\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminU2', Array, true)
+#3 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(11): view('adminU2')
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:01:08 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-07 14:01:31 --> Call to a member function findAll() on null
+#0 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-07 14:02:02 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\Pasteles\app\Views\adminU2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\Pasteles\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminU2', Array, true)
+#3 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(12): view('adminU2')
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:02:39 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\Pasteles\app\Views\adminU2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\Pasteles\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminU2', Array, true)
+#3 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(12): view('adminU2')
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:04:02 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\Pasteles\app\Views\adminU2.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 C:\xampp\htdocs\Pasteles\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminU2', Array, true)
+#3 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(12): view('adminU2')
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#5 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#6 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:06:34 --> syntax error, unexpected '$variable' (T_VARIABLE), expecting ';' or '{'
+#0 C:\xampp\htdocs\Pasteles\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Pastel/adminUsu...')
+#1 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Pastel/adminUsu...')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-07 14:14:36 --> syntax error, unexpected 'thead' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('adminU2', Array, true)
+#1 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(13): view('adminU2', Array)
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->adminUsuarios()
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-07 23:21:40 --> syntax error, unexpected '$query' (T_VARIABLE)
+#0 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('Registro1', Array, true)
+#1 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(92): view('Registro1')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->Registro()
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-12-07 23:22:44 --> syntax error, unexpected '$query' (T_VARIABLE)
+#0 C:\xampp\htdocs\Pasteles\system\Common.php(1119): CodeIgniter\View\View->render('Registro1', Array, true)
+#1 C:\xampp\htdocs\Pasteles\app\Controllers\Pastel.php(92): view('Registro1')
+#2 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(918): App\Controllers\Pastel->Registro()
+#3 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pastel))
+#4 C:\xampp\htdocs\Pasteles\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\Pasteles\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
